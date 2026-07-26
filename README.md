@@ -4,7 +4,7 @@ A modern, responsive developer portfolio built with Next.js, TypeScript, and Tai
 
 ## Live Website
 
-https://kartikeyasingh.dev
+[https://kartikeyasingh.dev](https://portfolio-phi-gray-57.vercel.app/)
 
 ## Tech Stack
 
