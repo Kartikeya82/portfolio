@@ -1,65 +1,107 @@
-# My Portfolio Website - Overview 🚀
+# Kartikeya Singh Portfolio
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+A modern, responsive developer portfolio built with Next.js, TypeScript, and Tailwind CSS. The portfolio showcases my projects, technical skills, experience, and contact information with a focus on clean design, performance, and accessibility.
 
----
+## Live Website
 
-## ⚠️ Usage Notice
+https://kartikeyasingh.dev
 
-This project is shared for learning purposes only.
+## Tech Stack
 
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Lucide React
 
-If you use parts of the code, you must provide proper credit linking back to the original repository.
+## Features
 
-Build your own version — don’t just copy.
+- Responsive design for desktop, tablet, and mobile
+- Interactive project showcase
+- Professional experience timeline
+- Skills section
+- AI-themed landing experience
+- Resume download
+- Contact information and social links
+- SEO and Open Graph metadata
+- Smooth animations with Framer Motion
+- Fast performance and optimized assets
 
-— Moncy Yohannan
+## Projects
 
----
+This portfolio includes projects across AI, machine learning, backend engineering, and full-stack development, including:
 
-## 🛠️ Instructions
+- EarningsIQ – Financial RAG Pipeline
+- AI Voice Receptionist
+- Orvica Dental AI Platform
+- VisionGuard
+- DR Crop
+- Additional AI and software engineering projects
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
+## Running Locally
 
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
+Clone the repository:
 
----
+```bash
+git clone https://github.com/Kartikeya82/portfolio.git
+```
 
-## ⚙️ Tech Stack
+Navigate to the project:
 
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+```bash
+cd portfolio
+```
 
----
+Install dependencies:
 
-## 🎨 Assets Usage
+```bash
+npm install
+```
 
-Some 3D assets included in this repository are free to use for learning purposes.
+Start the development server:
 
-However:
+```bash
+npm run dev
+```
 
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
+Open:
 
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
+```
+http://localhost:3000
+```
 
----
+## Build
 
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+```bash
+npm run build
+```
 
----
+## Project Structure
 
-## 📄 License
+```
+app/
+components/
+config/
+lib/
+public/
+styles/
+```
 
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
+## Deployment
 
-See the LICENSE file for full details
+The portfolio is deployed on Vercel.
 
+## Contact
+
+**Kartikeya Singh**
+
+LinkedIn: https://www.linkedin.com/in/kartikeyasingh/
+
+GitHub: https://github.com/Kartikeya82
+
+Portfolio: https://kartikeyasingh.dev
+
+## License
+
+This project is licensed under the MIT License.
